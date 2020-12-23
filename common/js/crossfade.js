@@ -35,7 +35,7 @@ var CrossfadeSample = function() {
     sig_45_a: '../common/audio/male_45.wav'
     */
    
-    sig0: '../dmo_sample2/common/audio/exp(11_23)/org_half/signal_0.wav',
+    sig0: '../demo_sample2/common/audio/exp(11_23)/org_half/signal_0.wav',
     sig45: '../demo_sample2/common/audio/exp(11_23)/org_half/signal_-45.wav',
     sig90: '../demo_sample2/common/audio/exp(11_23)/org_half/signal_-90.wav',
     sig135: '../demo_sample2/common/audio/exp(11_23)/org_half/signal_-135.wav',
