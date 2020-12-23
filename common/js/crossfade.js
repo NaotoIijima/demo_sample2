@@ -35,22 +35,22 @@ var CrossfadeSample = function() {
     sig_45_a: '../common/audio/male_45.wav'
     */
    
-    sig0: '../common/audio/exp(11_23)/org/signal_0.wav',
-    sig45: '../common/audio/exp(11_23)/org/signal_-45.wav',
-    sig90: '../common/audio/exp(11_23)/org/signal_-90.wav',
-    sig135: '../common/audio/exp(11_23)/org/signal_-135.wav',
-    sig180: '../common/audio/exp(11_23)/org/signal_180.wav',
-    sig_135: '../common/audio/exp(11_23)/org/signal_135.wav',
-    sig_90: '../common/audio/exp(11_23)/org/signal_90.wav',
-    sig_45: '../common/audio/exp(11_23)/org/signal_45.wav',
-    sig0_a: '../common/audio/exp(11_23)/trans/signal_0.wav',
-    sig45_a: '../common/audio/exp(11_23)/trans/signal_-45.wav',
-    sig90_a: '../common/audio/exp(11_23)/trans/signal_-90.wav',
-    sig135_a: '../common/audio/exp(11_23)/trans/signal_-135.wav',
-    sig180_a: '../common/audio/exp(11_23)/trans/signal_180.wav',
-    sig_135_a: '../common/audio/exp(11_23)/trans/signal_135.wav',
-    sig_90_a: '../common/audio/exp(11_23)/trans/signal_90.wav',
-    sig_45_a: '../common/audio/exp(11_23)/trans/signal_45.wav'
+    sig0: '../demo_smaple2/common/audio/exp(11_23)/org/signal_0.wav',
+    sig45: '../demo_smaple2/common/audio/exp(11_23)/org/signal_-45.wav',
+    sig90: '../demo_smaple2/common/audio/exp(11_23)/org/signal_-90.wav',
+    sig135: '../demo_smaple2/common/audio/exp(11_23)/org/signal_-135.wav',
+    sig180: '../demo_smaple2/common/audio/exp(11_23)/org/signal_180.wav',
+    sig_135: '../demo_smaple2/common/audio/exp(11_23)/org/signal_135.wav',
+    sig_90: '../demo_smaple2/common/audio/exp(11_23)/org/signal_90.wav',
+    sig_45: '../demo_smaple2/common/audio/exp(11_23)/org/signal_45.wav',
+    sig0_a: '../demo_smaple2/common/audio/exp(11_23)/trans/signal_0.wav',
+    sig45_a: '../demo_smaple2/common/audio/exp(11_23)/trans/signal_-45.wav',
+    sig90_a: '../demo_smaple2/common/audio/exp(11_23)/trans/signal_-90.wav',
+    sig135_a: '../demo_smaple2/common/audio/exp(11_23)/trans/signal_-135.wav',
+    sig180_a: '../demo_smaple2/common/audio/exp(11_23)/trans/signal_180.wav',
+    sig_135_a: '../demo_smaple2/common/audio/exp(11_23)/trans/signal_135.wav',
+    sig_90_a: '../demo_smaple2/common/audio/exp(11_23)/trans/signal_90.wav',
+    sig_45_a: '../demo_smaple2/common/audio/exp(11_23)/trans/signal_45.wav'
     
    /*
     sig0: '../common/audio/exp(11_23)/org_half/signal_0.wav',
